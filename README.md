@@ -3,8 +3,6 @@
 ## Dataset
 Telecom Churn Analysis CSV file
 
-## Telecom Churn Analysis
+## Telecom Churn Analysis - Power BI Dashboard
 
-```txt
 ![Telecom Churn Analsysis Power BI Dashboard](powerbi-telecom-churn-analysis.jpg)
-```
