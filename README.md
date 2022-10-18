@@ -5,4 +5,4 @@ Telecom Churn Analysis CSV file
 
 ## Telecom Churn Analysis - Power BI Dashboard
 
-![Telecom Churn Analsysis Power BI Dashboard](powerbi-telecom-churn-analysis.jpg)
+![Telecom Churn Analsysis Power BI Dashboard](powerbi-telecom-churn-analysis.png)
