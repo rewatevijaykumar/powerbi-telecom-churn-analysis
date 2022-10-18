@@ -1,0 +1,7 @@
+gender -> not helpful
+senior citizen > senior
+contract type > monthly
+dependents > no dependents minutely no:31%
+tech support > yes > 41%
+
+Payment Method > EC > 45%
